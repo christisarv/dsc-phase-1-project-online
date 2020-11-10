@@ -1,8 +1,8 @@
-# Phase 1 Project (Online)
+# Movie Data Analysis
 
 ## Introduction
 
-In this lesson, we review the guidelines for the Phase 1 Project.
+
 
 ## Objectives
 
