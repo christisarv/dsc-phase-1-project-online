@@ -16,9 +16,8 @@ For the purposes of this analysis I have chosen to look at US market data only, 
 
 ## Data
 
-Several data sets have been examined and interpreted from the following sources:
+Several data sets have been explored, but the following are included in the results:
 
-* Box Office Mojo
 * IMDB
 * Rotten Tomatoes
 * TheMovieDB.org
@@ -31,12 +30,7 @@ Several data sets have been examined and interpreted from the following sources:
 
 ## Results
 
-There are four deliverables for this project:
 
-1. A **GitHub repository**
-2. A **Jupyter Notebook**
-3. A non-technical presentation **slide deck**
-4. A non-technical presentation **recording**
 
 
 ### Conclusions
@@ -58,8 +52,9 @@ See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.
 
 ```
 ├── data
+├── Backup Work
 ├── images
 ├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+├── pdf
+└── Movie Analysis Notebook.ipynb
 ```
