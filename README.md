@@ -20,7 +20,7 @@ Several data sets have been explored, but the following are included in the resu
 
 * IMDB
 * Rotten Tomatoes
-* TheMovieDB.org
+* The Numbers
 
 ## Measures of Success
 
@@ -33,20 +33,32 @@ Several data sets have been explored, but the following are included in the resu
 
 ## Results
 
-Most animals have short stays at AAC (under 15 days) but some have long stays (over 180 days), and most of these are dogs.
+Movies that are released in July have the biggest return on investment. The majority of successful movies have a budget below $50M, so this can be used as a benchmark.
 
-![stay_lengths_by_type](./Images/stay_lengths_by_type.png)
+![ROI_bars.png](./Images/ROI_bars.png)
 
-The total number of sheltered animals typically peaks in May of each year and then hits its lowest point around January. There is often a secondary peak sometime after May before the number of sheltered animals drops rapidly. The number of sheltered animals has dropped precipitously in 2020, likely as a result of COVID-19.
+User ratings are high for non-fiction genres like Biography, Documentary, History & Sport. Music and musical are also popular.
 
-![sheltered_by_month.png](./Images/sheltered_by_month.png)
+![IMDB_Ratings.png](./Images/IMDB_Ratings.png)
+
+Documentary, Romance, Art House/International, and Drama films are popular with critics. These genres may not be as clearly linked, but thinking about what they are not (Comedy, Action, Sci Fi/Fantasy, Horror) will help us understand what to steer away from.
+
+![RT_Ratings.png](./Images/RT_Ratings.png)
 
 
-### Conclusions
+## Conclusions
 
-This analysis leads to three recommendations for getting started with developing movies:
+This analysis leads to the below recommendations for getting started with developing movies:
 
-### Next Steps
+* Release a movie in July for the biggest return on investment. A variety of movies from different genres all performed well as July releases
+* Start with a budget below $50MM since most movies with high returns fell at or below this. You don’t need to pour hundreds of millions of dollars into a huge franchise to be successful
+
+* People have high opinions of non-fiction genres like Biography, Documentary, History & Sport – consider these genres for a first venture. Non-fiction genres are having a moment on streaming services, and the prevalence of the true-crime genre may have renewed the appetite for real-life stories
+
+* Documentary, Romance, Art House/International, and Drama were overall popular with critics. These genres may not be as clearly linked, but thinking about what they are not (Comedy, Action, Sci Fi/Fantasy, Horror) will help us understand what to steer away from
+
+
+## Next Steps
 
 For further analyis, recommended approaches are below:
 
@@ -60,10 +72,11 @@ See the full analysis in the [Jupyter Notebook](./Movie Analysis Notebook.ipynb)
 ## Repository Structure
 
 ```
-├── data
 ├── Backup Work
 ├── Images
+├── Data
+├── Movie Analysis Notebook.ipynb
+├── Movie Data Analysis.pdf
 ├── README.md
-├── pdf
-└── Movie Analysis Notebook.ipynb
+└── Movie Data Analysis Presentation.pdf
 ```
