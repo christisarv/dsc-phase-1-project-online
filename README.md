@@ -62,12 +62,12 @@ This analysis leads to the below recommendations for getting started with develo
 
 For further analyis, recommended approaches are below:
 
-* An analysis on press/awards for different titles and studios and this has affected revenue, particulary new entries such as Netflix and Amaxon Prime Video
+* An analysis on press/awards for different titles and studios and how this has affected revenue, particulary new entries such as Netflix and Amazon Prime Video
 * A market research analysis of the movie industry during Covid-19, and how established players are adapting to this challenging environment
 
-#### For More Information
+## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Movie Analysis Notebook.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./Movie Analysis Notebook.ipynb) or review this [presentation](./Movie Data Analysis Presentation.pdf).
 
 ## Repository Structure
 
