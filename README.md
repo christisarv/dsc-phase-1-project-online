@@ -67,7 +67,7 @@ For further analyis, recommended approaches are below:
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Movie Analysis Notebook.ipynb) or review this [presentation](./Movie Data Analysis Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./Movie%20Analysis%20Notebook.ipynb) or review this [presentation](./Movie%20Data%20Analysis%20Presentation.pdf).
 
 ## Repository Structure
 
