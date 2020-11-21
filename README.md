@@ -22,15 +22,24 @@ Several data sets have been explored, but the following are included in the resu
 * Rotten Tomatoes
 * TheMovieDB.org
 
-## Methods
+## Measures of Success
 
+* Positive return on investment: Because ultimately, a successful business venture makes money.
+* High user ratings: We want people to like the movie! This will (hopefully) help generate word-of-mouth promotion and social media chat to spread positive opinion.
+* High critical ratings: Strong critical reviews mean positive press, which will capture media attention. Having clout in the industry as well can mean getting put up for awards, which can be a great set up to draw in better talent to future films, and better funding from potential investors
 
 
 
 
 ## Results
 
+Most animals have short stays at AAC (under 15 days) but some have long stays (over 180 days), and most of these are dogs.
 
+![stay_lengths_by_type](./Images/stay_lengths_by_type.png)
+
+The total number of sheltered animals typically peaks in May of each year and then hits its lowest point around January. There is often a secondary peak sometime after May before the number of sheltered animals drops rapidly. The number of sheltered animals has dropped precipitously in 2020, likely as a result of COVID-19.
+
+![sheltered_by_month.png](./Images/sheltered_by_month.png)
 
 
 ### Conclusions
@@ -46,14 +55,14 @@ For further analyis, recommended approaches are below:
 
 #### For More Information
 
-See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./Movie Analysis Notebook.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
 
 ## Repository Structure
 
 ```
 ├── data
 ├── Backup Work
-├── images
+├── Images
 ├── README.md
 ├── pdf
 └── Movie Analysis Notebook.ipynb
